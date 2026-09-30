@@ -15,7 +15,6 @@ ProductCode: '{C2417DE7-B9ED-4BE0-AB8B-74873C3B0C49}_is1'
 AppsAndFeaturesEntries:
 - DisplayName: Zeff Boy
   Publisher: Zeffuro
-  DisplayVersion: 0.4.1
   ProductCode: '{C2417DE7-B9ED-4BE0-AB8B-74873C3B0C49}_is1'
 Installers:
 - Architecture: x64
